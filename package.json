@@ -1,0 +1,23 @@
+{
+  "name": "mmall-fe",
+  "version": "1.0.0",
+  "description": "mmall-fe webfont code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonHlf/mmall-fe.git"
+  },
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonHlf/mmall-fe/issues"
+  },
+  "homepage": "https://github.com/SimonHlf/mmall-fe#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  },
+  "dependencies": {}
+}
