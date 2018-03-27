@@ -1,3 +1,3 @@
-var $$ = require("jquery");
-console.log('hello index');
-$$("body").html("index hello!!")
+require('./index.css');
+require('../module.js');
+
