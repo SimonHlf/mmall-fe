@@ -1,0 +1,17 @@
+/*
+* @Author: lenovo
+* @Date:   2018-04-15 22:45:19
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-04-15 22:49:37
+*/
+.nav-simple{
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 1px solid #ddd;
+	background: #fff;
+}
+.nav-simple .logo{
+	font-size: 26px;
+	font-weight: bold;
+	color: #c60023;
+}
